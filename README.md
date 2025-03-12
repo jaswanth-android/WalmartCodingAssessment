@@ -1,6 +1,6 @@
 Project Structure:
-
-app/
+<pre>
+app/ 
 ├── build.gradle
 ├── src/
     ├── main/
@@ -24,5 +24,6 @@ app/
         ├── java/com/example/walmart/
         │   ├── CountryViewModelTest.kt
         │   └── CountryRepositoryTest.kt
+</pre>
 
 I have completed the test as per the instructions mentioned in the assessment. I have used views, handled errors and edge cases, written test cases, and ensured the list remains consistent through device rotation.
